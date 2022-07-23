@@ -1,0 +1,229 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7e12b399e530dd9931849d00c5bc1439" tvg-chno="1",BBC ONE NI
+http://192.168.1.148:9981/stream/channelid/431166078?profile=htsp
+#EXTINF:-1 tvg-id="437e00d707e8a0ed40ebb5982fc8c71b" tvg-chno="2",BBC TWO NI
+http://192.168.1.148:9981/stream/channelid/1459650115?profile=htsp
+#EXTINF:-1 tvg-id="dd8c9987550219a8918285593bf0f093" tvg-chno="3",UTV
+http://192.168.1.148:9981/stream/channelid/127503581?profile=htsp
+#EXTINF:-1 tvg-id="cb92c72f59f94cfe0bca0679c2410c3d" tvg-chno="4",Channel 4
+http://192.168.1.148:9981/stream/channelid/801608395?profile=htsp
+#EXTINF:-1 tvg-id="a4fdb4ed1926f6e987eba977373f9150" tvg-chno="5",Channel 5
+http://192.168.1.148:9981/stream/channelid/1840577956?profile=htsp
+#EXTINF:-1 tvg-id="2f8333ea41e388276882d285b1ed6156" tvg-chno="6",ITV2
+http://192.168.1.148:9981/stream/channelid/1781760815?profile=htsp
+#EXTINF:-1 tvg-id="47d8962e24b530483c93213e9604a48c" tvg-chno="7",NVTV
+http://192.168.1.148:9981/stream/channelid/781637703?profile=htsp
+#EXTINF:-1 tvg-id="64b1b0c7d7cb559a3ed76ddc9aabe583" tvg-chno="10",ITV3
+http://192.168.1.148:9981/stream/channelid/1202762084?profile=htsp
+#EXTINF:-1 tvg-id="2c038cd441cc6915f2168a6dc482f4a1" tvg-chno="11",Sky Arts
+http://192.168.1.148:9981/stream/channelid/1418461996?profile=htsp
+#EXTINF:-1 tvg-id="999c34df82f807f89270ddb540de951a" tvg-chno="12",QUEST
+http://192.168.1.148:9981/stream/channelid/1597283481?profile=htsp
+#EXTINF:-1 tvg-id="8e6041f979c10da51446c29edae69930" tvg-chno="13",E4
+http://192.168.1.148:9981/stream/channelid/2034327694?profile=htsp
+#EXTINF:-1 tvg-id="80096d4a7fb9692a6b7e3754ee4855a4" tvg-chno="14",Film4
+http://192.168.1.148:9981/stream/channelid/1248659840?profile=htsp
+#EXTINF:-1 tvg-id="11a97b3b5deb2290ab15d0ae1b458f97" tvg-chno="15",Channel 4+1
+http://192.168.1.148:9981/stream/channelid/997959953?profile=htsp
+#EXTINF:-1 tvg-id="7140d51431231b908906eb7a3d4787c1" tvg-chno="16",QVC
+http://192.168.1.148:9981/stream/channelid/349519985?profile=htsp
+#EXTINF:-1 tvg-id="685349ee324ea8aacee2ac2e9ca53361" tvg-chno="17",Really
+http://192.168.1.148:9981/stream/channelid/1850299240?profile=htsp
+#EXTINF:-1 tvg-id="3b1a17a2c8ab6fe01eae9682f1cd9328" tvg-chno="18",More 4
+http://192.168.1.148:9981/stream/channelid/571939387?profile=htsp
+#EXTINF:-1 tvg-id="2fd3fffe0a55f08cc71d738281d96a59" tvg-chno="19",Dave
+http://192.168.1.148:9981/stream/channelid/2130694959?profile=htsp
+#EXTINF:-1 tvg-id="1c89f0766be055ce98e74f803ada34fa" tvg-chno="20",Drama
+http://192.168.1.148:9981/stream/channelid/1995475228?profile=htsp
+#EXTINF:-1 tvg-id="491a11084072232411eac32fa5a8db4a" tvg-chno="21",5USA
+http://192.168.1.148:9981/stream/channelid/135338569?profile=htsp
+#EXTINF:-1 tvg-id="39cb680132cdd7f74fddbd50c9a2700d" tvg-chno="22",TJC
+http://192.168.1.148:9981/stream/channelid/23644985?profile=htsp
+#EXTINF:-1 tvg-id="c206a341eec3adbf5a201dfcb65aaaa3" tvg-chno="25",W
+http://192.168.1.148:9981/stream/channelid/1101203138?profile=htsp
+#EXTINF:-1 tvg-id="da4dc5b22f9f86fa6bb65cc6bcd7e6c2" tvg-chno="26",ITV4
+http://192.168.1.148:9981/stream/channelid/851791322?profile=htsp
+#EXTINF:-1 tvg-id="7314ec6db6446210427bd5bb9a05d2f0" tvg-chno="27",Yesterday
+http://192.168.1.148:9981/stream/channelid/1844188275?profile=htsp
+#EXTINF:-1 tvg-id="87c8a5d49574d82cd5aec8eb1e8fd34f" tvg-chno="28",ITVBe
+http://192.168.1.148:9981/stream/channelid/1420150919?profile=htsp
+#EXTINF:-1 tvg-id="3216239cc0e632d42969566b6d109c99" tvg-chno="29",ITV2 +1
+http://192.168.1.148:9981/stream/channelid/472061490?profile=htsp
+#EXTINF:-1 tvg-id="7871e0c6b4dd8dab18d1aa3146d316a2" tvg-chno="30",E4+1
+http://192.168.1.148:9981/stream/channelid/1189114232?profile=htsp
+#EXTINF:-1 tvg-id="5b4869af16bd54efa75f9d61779130b6" tvg-chno="31",E4 Extra
+http://192.168.1.148:9981/stream/channelid/795428955?profile=htsp
+#EXTINF:-1 tvg-id="d70f5af6e5f76f47339766f339f23646" tvg-chno="32",5STAR
+http://192.168.1.148:9981/stream/channelid/1985613783?profile=htsp
+#EXTINF:-1 tvg-id="9055297753a8c213018c0a6e173a05ec" tvg-chno="33",5ACTION
+http://192.168.1.148:9981/stream/channelid/1999197584?profile=htsp
+#EXTINF:-1 tvg-id="4fe007d208ca6905ff2b3753e1508c98" tvg-chno="34",GREAT! movies
+http://192.168.1.148:9981/stream/channelid/1376247887?profile=htsp
+#EXTINF:-1 tvg-id="512f50b1cabda4a60ea3c7925eb69696" tvg-chno="35",UTV+1
+http://192.168.1.148:9981/stream/channelid/827338577?profile=htsp
+#EXTINF:-1 tvg-id="c0c05cec2dea43ff36b36ad6eb11fba8" tvg-chno="36",Pick
+http://192.168.1.148:9981/stream/channelid/1818017984?profile=htsp
+#EXTINF:-1 tvg-id="587efb57d10d55e815f726975d153eb5" tvg-chno="38",QVC Style
+http://192.168.1.148:9981/stream/channelid/1476099672?profile=htsp
+#EXTINF:-1 tvg-id="4eea8efbc6221f5ccb132fb7415ee930" tvg-chno="39",DMAX
+http://192.168.1.148:9981/stream/channelid/2072963662?profile=htsp
+#EXTINF:-1 tvg-id="63a6bf7bc4ee74d74eca0ecac2162905" tvg-chno="40",Quest Red
+http://192.168.1.148:9981/stream/channelid/2076157539?profile=htsp
+#EXTINF:-1 tvg-id="ba0b1d8e0e310b34e477cb07ae4ba377" tvg-chno="41",Legend
+http://192.168.1.148:9981/stream/channelid/236784570?profile=htsp
+#EXTINF:-1 tvg-id="1a0e6a6023c01223929fce5a559498d8" tvg-chno="42",GREAT! movies action
+http://192.168.1.148:9981/stream/channelid/1617563162?profile=htsp
+#EXTINF:-1 tvg-id="5e7971baef0ce77d5d7cc2b4328f2806" tvg-chno="43",Food Network
+http://192.168.1.148:9981/stream/channelid/980515166?profile=htsp
+#EXTINF:-1 tvg-id="2a60b5eb8e56942dbc61a25fcbdafe73" tvg-chno="44",HGTV
+http://192.168.1.148:9981/stream/channelid/1807048746?profile=htsp
+#EXTINF:-1 tvg-id="e774010ff3df99fe1b229da039334d90" tvg-chno="45",Gems TV
+http://192.168.1.148:9981/stream/channelid/251753703?profile=htsp
+#EXTINF:-1 tvg-id="76bbb5ad6f4389f79eb8c9cffc06627b" tvg-chno="46",Channel 5+1
+http://192.168.1.148:9981/stream/channelid/766884726?profile=htsp
+#EXTINF:-1 tvg-id="c076d81144a123eaf26b33d46b688686" tvg-chno="47",Film4+1
+http://192.168.1.148:9981/stream/channelid/299398848?profile=htsp
+#EXTINF:-1 tvg-id="247fd4350123a3f1ad618141c4a183a7" tvg-chno="48",Challenge
+http://192.168.1.148:9981/stream/channelid/903118628?profile=htsp
+#EXTINF:-1 tvg-id="9c27fce39a6b8f15e57b929f99eafe2b" tvg-chno="49",4seven
+http://192.168.1.148:9981/stream/channelid/1677469596?profile=htsp
+#EXTINF:-1 tvg-id="41f0984da9f6a52b4d98d0a9a3db3ee8" tvg-chno="50",GREAT! tv
+http://192.168.1.148:9981/stream/channelid/1301868609?profile=htsp
+#EXTINF:-1 tvg-id="0f1a4ca697c69719bc6152375ff1e812" tvg-chno="51",Ideal World
+http://192.168.1.148:9981/stream/channelid/642521615?profile=htsp
+#EXTINF:-1 tvg-id="c9cd8a9a5af8eac67fb4a72a0b8cb43a" tvg-chno="52",GREAT! movies classic
+http://192.168.1.148:9981/stream/channelid/445304265?profile=htsp
+#EXTINF:-1 tvg-id="59fe78a74246157762051320c96eeb1c" tvg-chno="53",TG4
+http://192.168.1.148:9981/stream/channelid/662240857?profile=htsp
+#EXTINF:-1 tvg-id="83341ec11e92c966270d7b04892d798d" tvg-chno="54",RTÉ One
+http://192.168.1.148:9981/stream/channelid/1092498563?profile=htsp
+#EXTINF:-1 tvg-id="5445eff86da1d3e08503b81f16aa7653" tvg-chno="55",RTÉ Two
+http://192.168.1.148:9981/stream/channelid/2028946772?profile=htsp
+#EXTINF:-1 tvg-id="7e5b1ab5e4fb17e359c543f088fe63d0" tvg-chno="56",5SELECT
+http://192.168.1.148:9981/stream/channelid/890919806?profile=htsp
+#EXTINF:-1 tvg-id="c90e3f36f7f5dbf32ebb16042757176c" tvg-chno="57",Smithsonian Channel
+http://192.168.1.148:9981/stream/channelid/910102217?profile=htsp
+#EXTINF:-1 tvg-id="2a0f4a5021f0588f23dda0ebf19a4a95" tvg-chno="60",Drama +1
+http://192.168.1.148:9981/stream/channelid/1347030826?profile=htsp
+#EXTINF:-1 tvg-id="ae4fbe49c3866070cf72f4b912603d79" tvg-chno="64",Blaze
+http://192.168.1.148:9981/stream/channelid/1237209006?profile=htsp
+#EXTINF:-1 tvg-id="d32a009972dd1f80b7039c6c925664e8" tvg-chno="65",That's TV (UK)
+http://192.168.1.148:9981/stream/channelid/419441363?profile=htsp
+#EXTINF:-1 tvg-id="d6506e5852e42be1aa35877924206352" tvg-chno="66",TBN UK
+http://192.168.1.148:9981/stream/channelid/1483624662?profile=htsp
+#EXTINF:-1 tvg-id="526e86a09747cbca0318276285834829" tvg-chno="67",CBS Reality
+http://192.168.1.148:9981/stream/channelid/545680978?profile=htsp
+#EXTINF:-1 tvg-id="3a20dffaf6a06f95e9d04c49687c2fc7" tvg-chno="68",RealityXtra
+http://192.168.1.148:9981/stream/channelid/2061443130?profile=htsp
+#EXTINF:-1 tvg-id="d03aff22aa7aa230ed285dabaf54282c" tvg-chno="70",QUEST+1
+http://192.168.1.148:9981/stream/channelid/587152080?profile=htsp
+#EXTINF:-1 tvg-id="cdafdaca19044af1e0146f488fc0009b" tvg-chno="71",Quest Red+1
+http://192.168.1.148:9981/stream/channelid/1255845837?profile=htsp
+#EXTINF:-1 tvg-id="5822b03475adaa7eb54bf8ce4f71156c" tvg-chno="73",HobbyMaker
+http://192.168.1.148:9981/stream/channelid/883958360?profile=htsp
+#EXTINF:-1 tvg-id="f6eb916f610df9ec3000a0a8d7bb464a" tvg-chno="74",Dave ja vu
+http://192.168.1.148:9981/stream/channelid/1871834102?profile=htsp
+#EXTINF:-1 tvg-id="6ff720999e865a0c0b765a61a1f8ebee" tvg-chno="82",TalkingPictures TV
+http://192.168.1.148:9981/stream/channelid/421590895?profile=htsp
+#EXTINF:-1 tvg-id="940ad8ba82afce604c0fb33d25b9219a" tvg-chno="84",PBS America
+http://192.168.1.148:9981/stream/channelid/987237012?profile=htsp
+#EXTINF:-1 tvg-id="77ce73e9f07b10d6cc0da65a6e5abc2b" tvg-chno="85",Create & Craft
+http://192.168.1.148:9981/stream/channelid/1769197175?profile=htsp
+#EXTINF:-1 tvg-id="09371ec17c3321f835f999e4a1be8c4c" tvg-chno="101",BBC ONE NI HD
+http://192.168.1.148:9981/stream/channelid/1092499209?profile=htsp
+#EXTINF:-1 tvg-id="0990de0e0ba9f44bda07f6098362ebad" tvg-chno="102",BBC TWO NI HD
+http://192.168.1.148:9981/stream/channelid/249466889?profile=htsp
+#EXTINF:-1 tvg-id="b51ef965b72c17dd53a139305d68fe4e" tvg-chno="103",UTV HD
+http://192.168.1.148:9981/stream/channelid/1710825141?profile=htsp
+#EXTINF:-1 tvg-id="c4f410518bd9578be8df0551c8223c86" tvg-chno="104",Channel 4 HD
+http://192.168.1.148:9981/stream/channelid/1360065732?profile=htsp
+#EXTINF:-1 tvg-id="5db22a860d7d8b59fdf9159186c4e820" tvg-chno="105",Channel 5 HD
+http://192.168.1.148:9981/stream/channelid/103461469?profile=htsp
+#EXTINF:-1 tvg-id="9a6672ff065c33df99cd722a35aa151e" tvg-chno="201",CBBC
+http://192.168.1.148:9981/stream/channelid/2138203802?profile=htsp
+#EXTINF:-1 tvg-id="017d34a11e59f3d4e93198b0afb0e6fa" tvg-chno="202",CBeebies
+http://192.168.1.148:9981/stream/channelid/557088001?profile=htsp
+#EXTINF:-1 tvg-id="0f54bc36980e89ad58a8450fbf93bbde" tvg-chno="203",CITV
+http://192.168.1.148:9981/stream/channelid/918311951?profile=htsp
+#EXTINF:-1 tvg-id="3f288f0d0ad506a4b8489609a18e90b1" tvg-chno="204",CBBC HD
+http://192.168.1.148:9981/stream/channelid/227485759?profile=htsp
+#EXTINF:-1 tvg-id="12bfc83edc83806168a318bff220fb0d" tvg-chno="206",POP
+http://192.168.1.148:9981/stream/channelid/1053343506?profile=htsp
+#EXTINF:-1 tvg-id="d4af011439c248f34bf2d2abe51113df" tvg-chno="207",Tiny Pop
+http://192.168.1.148:9981/stream/channelid/335654868?profile=htsp
+#EXTINF:-1 tvg-id="3f4511a567ce726bd71275366670bfe6" tvg-chno="231",BBC NEWS
+http://192.168.1.148:9981/stream/channelid/621888831?profile=htsp
+#EXTINF:-1 tvg-id="10c55afc405ef4ad55739dac2f838127" tvg-chno="232",BBC Parliament
+http://192.168.1.148:9981/stream/channelid/2086323472?profile=htsp
+#EXTINF:-1 tvg-id="438cf9c5bdb5f864ab802b0ea4526a35" tvg-chno="233",Sky News
+http://192.168.1.148:9981/stream/channelid/1173982275?profile=htsp
+#EXTINF:-1 tvg-id="82d36e94cb051735e5379d7bd8905483" tvg-chno="235",Al Jazeera Eng
+http://192.168.1.148:9981/stream/channelid/342807426?profile=htsp
+#EXTINF:-1 tvg-id="1e6e731b660826796413493ca05dcb33" tvg-chno="236",GB News
+http://192.168.1.148:9981/stream/channelid/460549662?profile=htsp
+#EXTINF:-1 tvg-id="c01d2f7581ff8559e97dc2da0ae32205" tvg-chno="237",TalkTV
+http://192.168.1.148:9981/stream/channelid/1966022080?profile=htsp
+#EXTINF:-1 tvg-id="4382b0ffc01eb7ed66cd1abaa5083f14" tvg-chno="601",BBC RB 1
+http://192.168.1.148:9981/stream/channelid/2142274115?profile=htsp
+#EXTINF:-1 tvg-id="c28da607f4cfac0b7d8feba6b03350f9" tvg-chno="700",BBC Radio 1
+http://192.168.1.148:9981/stream/channelid/128355778?profile=htsp
+#EXTINF:-1 tvg-id="2b004c181ca706d08e49469f90a39ba8" tvg-chno="701",BBC R1X
+http://192.168.1.148:9981/stream/channelid/407633963?profile=htsp
+#EXTINF:-1 tvg-id="6e32faa75c2e94668dcfe8c05535de4c" tvg-chno="702",BBC Radio 2
+http://192.168.1.148:9981/stream/channelid/670708334?profile=htsp
+#EXTINF:-1 tvg-id="a58f145980c465f0eafa31567c752473" tvg-chno="703",BBC Radio 3
+http://192.168.1.148:9981/stream/channelid/1494519717?profile=htsp
+#EXTINF:-1 tvg-id="b9970189aa4bc32fa8a0fdae6994e537" tvg-chno="704",BBC Radio 4
+http://192.168.1.148:9981/stream/channelid/151099321?profile=htsp
+#EXTINF:-1 tvg-id="52853ef0ff0016d80836f53ce325c129" tvg-chno="705",BBC R5L
+http://192.168.1.148:9981/stream/channelid/1883145554?profile=htsp
+#EXTINF:-1 tvg-id="eaf8c6f4d100cb59588321aba2dbe3a8" tvg-chno="706",BBC R5SX
+http://192.168.1.148:9981/stream/channelid/1959196906?profile=htsp
+#EXTINF:-1 tvg-id="8a7b87e7751e3596c86a5ac7ce8dff03" tvg-chno="707",BBC 6 Music
+http://192.168.1.148:9981/stream/channelid/1736932234?profile=htsp
+#EXTINF:-1 tvg-id="2583f07d5d0e48470b4e35ce8d502274" tvg-chno="708",BBC Radio 4 Ex
+http://192.168.1.148:9981/stream/channelid/2112914213?profile=htsp
+#EXTINF:-1 tvg-id="f29bf79ce06050600bf0bb1be9ca395b" tvg-chno="709",BBC Asian Net.
+http://192.168.1.148:9981/stream/channelid/485989362?profile=htsp
+#EXTINF:-1 tvg-id="6328e3b8dd4e9fbc4b514675571385fe" tvg-chno="710",BBC World Sv.
+http://192.168.1.148:9981/stream/channelid/954411107?profile=htsp
+#EXTINF:-1 tvg-id="971950b9a68499dfd37ed1b845421b1f" tvg-chno="711",Hits Radio
+http://192.168.1.148:9981/stream/channelid/961550743?profile=htsp
+#EXTINF:-1 tvg-id="5223c023162eef9bcba2a0e757652fdf" tvg-chno="712",KISS FRESH
+http://192.168.1.148:9981/stream/channelid/599794514?profile=htsp
+#EXTINF:-1 tvg-id="05cce10699abcc044063d8a80a04ee1b" tvg-chno="713",KISS
+http://192.168.1.148:9981/stream/channelid/115461125?profile=htsp
+#EXTINF:-1 tvg-id="334dffbdd0f54b83d2413c5386ac0d12" tvg-chno="714",KISSTORY
+http://192.168.1.148:9981/stream/channelid/1040141619?profile=htsp
+#EXTINF:-1 tvg-id="d801debbe827cb1fcac3f0223876b118" tvg-chno="715",Magic
+http://192.168.1.148:9981/stream/channelid/1004405208?profile=htsp
+#EXTINF:-1 tvg-id="739d80123b68ca0ea4eb5c3253a4b232" tvg-chno="716",Greatest Hits Radio
+http://192.168.1.148:9981/stream/channelid/310418803?profile=htsp
+#EXTINF:-1 tvg-id="9f997edc0edf87b155e8fac4b0579b95" tvg-chno="717",Kerrang!
+http://192.168.1.148:9981/stream/channelid/1551800735?profile=htsp
+#EXTINF:-1 tvg-id="3f25cd14798d2202b45e989c57e2b6af" tvg-chno="718",Smooth Radio
+http://192.168.1.148:9981/stream/channelid/348988735?profile=htsp
+#EXTINF:-1 tvg-id="c4520fc28bea9b189c933d1dab962ab9" tvg-chno="719",BBC Radio Ulster
+http://192.168.1.148:9981/stream/channelid/1108300484?profile=htsp
+#EXTINF:-1 tvg-id="679a646825ad4dd2e8d58eb2d9c5e5eb" tvg-chno="720",BBC Radio Foyle
+http://192.168.1.148:9981/stream/channelid/1751423591?profile=htsp
+#EXTINF:-1 tvg-id="ecd8832f3e776602fa338342989fd905" tvg-chno="723",talkSPORT
+http://192.168.1.148:9981/stream/channelid/797169900?profile=htsp
+#EXTINF:-1 tvg-id="49801acd19e90c0488c259bfb0c5b7cb" tvg-chno="724",Capital
+http://192.168.1.148:9981/stream/channelid/1293582409?profile=htsp
+#EXTINF:-1 tvg-id="63600ef4a6fad5fd9bf36f98c09c3810" tvg-chno="725",Premier Radio
+http://192.168.1.148:9981/stream/channelid/1947099235?profile=htsp
+#EXTINF:-1 tvg-id="951b2d965b38978a6f5654acafe79447" tvg-chno="727",Absolute Radio
+http://192.168.1.148:9981/stream/channelid/372054933?profile=htsp
+#EXTINF:-1 tvg-id="f60e392d9e41a5cb78f4373c5e6755fb" tvg-chno="728",Heart
+http://192.168.1.148:9981/stream/channelid/758714102?profile=htsp
+#EXTINF:-1 tvg-id="2d76afa9579af25899b0d85920ae90f7" tvg-chno="729",RTÉ RnaG
+http://192.168.1.148:9981/stream/channelid/699364909?profile=htsp
+#EXTINF:-1 tvg-id="bf8ff5cbba96af70b39fe68027b842a4" tvg-chno="730",RNIB Connect
+http://192.168.1.148:9981/stream/channelid/1274384319?profile=htsp
+#EXTINF:-1 tvg-id="e36ff654aed1c3dc5d7236f80f538f7c" tvg-chno="731",Classic FM
+http://192.168.1.148:9981/stream/channelid/1425436643?profile=htsp
+#EXTINF:-1 tvg-id="4f41efa742b81e14af6d066960c7fcab" tvg-chno="732",LBC
+http://192.168.1.148:9981/stream/channelid/669991247?profile=htsp
+#EXTINF:-1 tvg-id="bad52980ad26535af855618172f101d5" tvg-chno="733",Trans World Radio
+http://192.168.1.148:9981/stream/channelid/2741690?profile=htsp
